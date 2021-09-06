@@ -16,7 +16,8 @@ body {
   justify-content: spacebetween;
   align-items: center;
 }
-- .navbar a {
+
+.navbar a {
   color: aqua;
   text-decoration: none;
   margin-right: 10px;
